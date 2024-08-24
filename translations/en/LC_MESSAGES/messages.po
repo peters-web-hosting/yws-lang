@@ -1,70 +1,122 @@
+# Translations template for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
 msgid ""
 msgstr ""
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: en\n"
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-08-24 18:32+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
 
-msgid "IP Lookup"
-msgstr "IP Lookup"
+#: templates/asn.html:3 templates/asn.html:9
+msgid "ASN Lookup"
+msgstr "ASN Lookup"
 
-msgid "IP Lookup for {{ ip }}"
-msgstr "IP Lookup for x {{ ip }}"
+#: templates/asn.html:12
+msgid "Enter ASN or Network Name:"
+msgstr "Enter ASN or Network Name:"
 
-msgid "Enter IP Address:"
-msgstr "Enter IP Address:"
-
+#: templates/asn.html:22 templates/index.html:20
 msgid "Lookup"
 msgstr "Lookup"
 
-msgid "Suggested IPs:"
-msgstr "Suggested IPs:"
+#: templates/asn.html:32
+msgid "ASN Details"
+msgstr "ASN Details"
 
-msgid "Report this IP as a good Bot"
-msgstr "Report this IP as a good Bot"
-
-msgid "Bot Name:"
-msgstr "Bot Name:"
-
-msgid "Flag Bot"
-msgstr "Flag Bot"
-
-msgid "Report this IP"
-msgstr "Report this IP"
-
-msgid "Flag IP"
-msgstr "Flag IP"
-
-msgid "IP Details"
-msgstr "IP Details"
-
-msgid "IP:"
-msgstr "IP:"
-
-msgid "Date Reported:"
-msgstr "Date Reported:"
-
-msgid "Country:"
-msgstr "Country:"
-
+#: templates/asn.html:35 templates/index.html:88
 msgid "ASN:"
 msgstr "ASN:"
 
+#: templates/asn.html:38
+msgid "ASN Name:"
+msgstr "ASN Name:"
+
+#: templates/asn.html:41
+msgid "Risk:"
+msgstr "Risk:"
+
+#: templates/asn.html:44
+msgid "Seen:"
+msgstr "Seen:"
+
+#: templates/asn.html:44
+msgid "times"
+msgstr "times"
+
+#: templates/index.html:3 templates/index.html:12
+msgid "IP Lookup"
+msgstr "IP Lookup"
+
+#: templates/index.html:10
+msgid "IP Lookup for"
+msgstr "IP Lookup for"
+
+#: templates/index.html:17
+msgid "Enter IP Address:"
+msgstr "Enter IP Address:"
+
+#: templates/index.html:25
+msgid "Suggested IPs:"
+msgstr "Suggested IPs:"
+
+#: templates/index.html:51
+msgid "Report this IP as a good Bot"
+msgstr "Report this IP as a good Bot"
+
+#: templates/index.html:56 templates/index.html:113
+msgid "Bot Name:"
+msgstr "Bot Name:"
+
+#: templates/index.html:59
+msgid "Flag Bot"
+msgstr "Flag Bot"
+
+#: templates/index.html:64
+msgid "Report this IP"
+msgstr "Report this IP"
+
+#: templates/index.html:68
+msgid "Flag IP"
+msgstr "Flag IP"
+
+#: templates/index.html:80
+msgid "IP Details"
+msgstr "IP Details"
+
+#: templates/index.html:83
+msgid "IP:"
+msgstr "IP:"
+
+#: templates/index.html:84
+msgid "Date Reported:"
+msgstr "Date Reported:"
+
+#: templates/index.html:85
+msgid "Country:"
+msgstr "Country:"
+
+#: templates/index.html:89
 msgid "Times found in log files:"
 msgstr "Times found in log files:"
 
+#: templates/index.html:90
 msgid "User reports:"
 msgstr "User reports:"
 
-msgid "Average Risk: {{ average_risk }}"
-msgstr "Average Risk: {{ average_risk }}"
+#: templates/index.html:103
+msgid "Average Risk:"
+msgstr "Average Risk:"
 
+#: templates/index.html:112
 msgid "Bot Information"
 msgstr "Bot Information"
-
-msgid "Bot Name: {{ bot_info }}"
-msgstr "Bot Name: {{ bot_info }}"
-
-msgid "Success Message"
-msgstr "Success Message"
-
-msgid "Error Message"
-msgstr "Error Message"
