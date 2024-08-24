@@ -28,7 +28,7 @@ jobs:
 
     - name: Compile .po files to .mo files
       run: |
-        pybabel compile -d translations
+        pybabel compile -f -d translations
 
     - name: Commit compiled .mo files
       run: |
