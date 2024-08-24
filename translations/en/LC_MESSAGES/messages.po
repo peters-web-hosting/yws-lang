@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+
+msgid "IP Lookup"
+msgstr "IP Lookup"
+
+msgid "IP Lookup for {{ ip }}"
+msgstr "IP Lookup for {{ ip }}"
+
+msgid "Enter IP Address:"
+msgstr "Enter IP Address:"
+
+msgid "Lookup"
+msgstr "Lookup"
+
+msgid "Suggested IPs:"
+msgstr "Suggested IPs:"
+
+msgid "Report this IP as a good Bot"
+msgstr "Report this IP as a good Bot"
+
+msgid "Bot Name:"
+msgstr "Bot Name:"
+
+msgid "Flag Bot"
+msgstr "Flag Bot"
+
+msgid "Report this IP"
+msgstr "Report this IP"
+
+msgid "Flag IP"
+msgstr "Flag IP"
+
+msgid "IP Details"
+msgstr "IP Details"
+
+msgid "IP:"
+msgstr "IP:"
+
+msgid "Date Reported:"
+msgstr "Date Reported:"
+
+msgid "Country:"
+msgstr "Country:"
+
+msgid "ASN:"
+msgstr "ASN:"
+
+msgid "Times found in log files:"
+msgstr "Times found in log files:"
+
+msgid "User reports:"
+msgstr "User reports:"
+
+msgid "Average Risk: {{ average_risk }}"
+msgstr "Average Risk: {{ average_risk }}"
+
+msgid "Bot Information"
+msgstr "Bot Information"
+
+msgid "Bot Name: {{ bot_info }}"
+msgstr "Bot Name: {{ bot_info }}"
+
+msgid "Success Message"
+msgstr "Success Message"
+
+msgid "Error Message"
+msgstr "Error Message"
