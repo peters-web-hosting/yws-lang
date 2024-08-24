@@ -1,0 +1,122 @@
+# Translations template for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-08-24 18:32+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: templates/asn.html:3 templates/asn.html:9
+msgid "ASN Lookup"
+msgstr "Búsqueda de ASN"
+
+#: templates/asn.html:12
+msgid "Enter ASN or Network Name:"
+msgstr "Ingrese el ASN o nombre de red:"
+
+#: templates/asn.html:22 templates/index.html:20
+msgid "Lookup"
+msgstr "Buscar"
+
+#: templates/asn.html:32
+msgid "ASN Details"
+msgstr "Detalles del ASN"
+
+#: templates/asn.html:35 templates/index.html:88
+msgid "ASN:"
+msgstr "ASN:"
+
+#: templates/asn.html:38
+msgid "ASN Name:"
+msgstr "Nombre del ASN:"
+
+#: templates/asn.html:41
+msgid "Risk:"
+msgstr "Riesgo:"
+
+#: templates/asn.html:44
+msgid "Seen:"
+msgstr "Visto:"
+
+#: templates/asn.html:44
+msgid "times"
+msgstr "veces"
+
+#: templates/index.html:3 templates/index.html:12
+msgid "IP Lookup"
+msgstr "Búsqueda de IP"
+
+#: templates/index.html:10
+msgid "IP Lookup for"
+msgstr "Búsqueda de IP para"
+
+#: templates/index.html:17
+msgid "Enter IP Address:"
+msgstr "Ingrese la dirección IP:"
+
+#: templates/index.html:25
+msgid "Suggested IPs:"
+msgstr "IPs sugeridas:"
+
+#: templates/index.html:51
+msgid "Report this IP as a good Bot"
+msgstr "Reportar esta IP como un buen bot"
+
+#: templates/index.html:56 templates/index.html:113
+msgid "Bot Name:"
+msgstr "Nombre del bot:"
+
+#: templates/index.html:59
+msgid "Flag Bot"
+msgstr "Marcar bot"
+
+#: templates/index.html:64
+msgid "Report this IP"
+msgstr "Reportar esta IP"
+
+#: templates/index.html:68
+msgid "Flag IP"
+msgstr "Marcar IP"
+
+#: templates/index.html:80
+msgid "IP Details"
+msgstr "Detalles de la IP"
+
+#: templates/index.html:83
+msgid "IP:"
+msgstr "IP:"
+
+#: templates/index.html:84
+msgid "Date Reported:"
+msgstr "Fecha reportada:"
+
+#: templates/index.html:85
+msgid "Country:"
+msgstr "País:"
+
+#: templates/index.html:89
+msgid "Times found in log files:"
+msgstr "Veces encontradas en los archivos de registro:"
+
+#: templates/index.html:90
+msgid "User reports:"
+msgstr "Informes de usuarios:"
+
+#: templates/index.html:103
+msgid "Average Risk:"
+msgstr "Riesgo promedio:"
+
+#: templates/index.html:112
+msgid "Bot Information"
+msgstr "Información del bot"
