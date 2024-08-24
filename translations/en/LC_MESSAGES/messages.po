@@ -7,7 +7,7 @@ msgid "IP Lookup"
 msgstr "IP Lookup"
 
 msgid "IP Lookup for {{ ip }}"
-msgstr "IP Lookup for {{ ip }}"
+msgstr "IP Lookup for x {{ ip }}"
 
 msgid "Enter IP Address:"
 msgstr "Enter IP Address:"
