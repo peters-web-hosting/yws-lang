@@ -20,5 +20,13 @@
   "times_found": "Times found in log files",
   "user_reports": "User reports",
   "average_risk": "Average Risk",
-  "bot_information": "Bot Information"
+  "bot_information": "Bot Information",
+  "asn_lookup": "ASN Lookup",
+  "enter_asn_or_network_name": "Enter ASN or Network Name:",
+  "lookup_asn": "Lookup ASN",
+  "asn_details": "ASN Details",
+  "asn_name": "ASN Name",
+  "risk": "Risk",
+  "seen": "Seen",
+  "times": "times"
 }
