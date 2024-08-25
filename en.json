@@ -1,8 +1,24 @@
 {
     "welcome": "IP lookup",
+    "ip_lookup": "IP Lookup",
+    "ip_lookup_for": "IP Lookup for",
     "enter_ip": "Please enter an IP address:",
     "lookup": "Lookup IP",
     "suggested_ips": "Suggested IPs",
-    "flag_as_bot": "Flag as Bot",
-    "report_success": "Successfully reported the bot."
+    "error_message": "Error occurred.",
+    "success_message": "Success!",
+    "report_good_bot": "Report this IP as a good Bot",
+    "bot_name": "Bot Name",
+    "flag_bot": "Flag Bot",
+    "report_this_ip": "Report this IP",
+    "flag_ip": "Flag IP",
+    "ip_details": "IP Details",
+    "ip": "IP",
+    "date_reported": "Date Reported",
+    "country": "Country",
+    "asn": "ASN",
+    "times_found": "Times found in log files",
+    "user_reports": "User reports",
+    "average_risk": "Average Risk",
+    "bot_information": "Bot Information"
 }
