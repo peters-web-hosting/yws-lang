@@ -1,0 +1,30 @@
+const translations = {
+  "ASN Lookup": "ASN Lookup",
+  "Enter ASN or Network Name:": "Enter ASN or Network Name:",
+  "Lookup": "Lookup",
+  "ASN Details": "ASN Details",
+  "ASN:": "ASN:",
+  "ASN Name:": "ASN Name:",
+  "Risk:": "Risk:",
+  "Seen:": "Seen:",
+  "times": "times",
+  "IP Lookup": "IP Lookup",
+  "IP Lookup for": "IP Lookup for",
+  "Enter IP Address:": "Enter IP Address:",
+  "Suggested IPs:": "Suggested IPs:",
+  "Report this IP as a good Bot": "Report this IP as a good Bot",
+  "Bot Name:": "Bot Name:",
+  "Flag Bot": "Flag Bot",
+  "Report this IP": "Report this IP",
+  "Flag IP": "Flag IP",
+  "IP Details": "IP Details",
+  "IP:": "IP:",
+  "Date Reported:": "Date Reported:",
+  "Country:": "Country:",
+  "Times found in log files:": "Times found in log files:",
+  "User reports:": "User reports:",
+  "Average Risk:": "Average Risk:",
+  "Bot Information": "Bot Information"
+};
+
+export default translations;
