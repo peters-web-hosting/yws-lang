@@ -28,5 +28,8 @@
   "asn_name": "Nombre de ASN",
   "risk": "Riesgo",
   "seen": "Visto",
-  "times": "veces"
+  "times": "veces",
+  "Country Risks": "Riesgos del País",
+  "Country ID": "ID del País",
+  "Country name": "Nombre del País"
 }

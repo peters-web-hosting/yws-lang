@@ -28,5 +28,8 @@
   "asn_name": "ASN Name",
   "risk": "Risk",
   "seen": "Seen",
-  "times": "times"
+  "times": "times",
+  "Country Risks": "Country Risks",
+  "Country ID": "Country ID",
+  "Country name": "Country name"
 }
