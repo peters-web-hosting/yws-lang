@@ -31,5 +31,19 @@
   "times": "times",
   "Country Risks": "Country Risks",
   "Country ID": "Country ID",
-  "Country name": "Country name"
+  "Country name": "Country name",
+  "email_label": "Email",
+  "email_placeholder": "Enter your email",
+  "password_label": "Password",
+  "password_placeholder": "Enter your password",
+  "remember_me": "Remember Me",
+  "submit": "Login",
+  "login": "Login",
+  "login_success": "Your account has been logged in!",
+  "login_failed": "Login Unsuccessful. Please check email and password",
+  "forgot_password": "Forgot Password?",
+  "register_here": "Don't have an account? Register here.",
+  "email_required": "Email is required",
+  "email_invalid": "Invalid email address",
+  "password_required": "Password is required"
 }
