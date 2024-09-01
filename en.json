@@ -45,5 +45,6 @@
   "register_here": "Don't have an account? Register here.",
   "email_required": "Email is required",
   "email_invalid": "Invalid email address",
-  "password_required": "Password is required"
+  "password_required": "Password is required",
+  "Request Password Reset": "Request Password Reset"
 }
